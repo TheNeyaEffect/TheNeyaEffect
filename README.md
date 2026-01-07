@@ -1,6 +1,6 @@
-COMP ENG student @ University of Cincinnati (Class of '29)
+COMP ENG Full-time Student @ University of Cincinnati (Class of '29)
 
-**Former HS Valedictorian | Creative technologist | Troubleshooter**
+<code style="color : purple">**Former HS Valedictorian | Creative technologist | Troubleshooter**</code>
 
 I’m fervid about building thoughtful, user-focused projects at the intersection of technology and creativity. With a strong foundation in programming, leadership, and collaboration, I enjoy turning ideas into functional, well-designed solutions.
 

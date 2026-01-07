@@ -8,11 +8,17 @@ Beyond code, I have a deep appreciation for digital art and design—an interest
 
 Currently exploring software development, UI/UX, and creative coding while growing my skills one project at a time !<br/>
 
+##
+
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+  <div class="blinkie-wrapper">
+  <img src="https://aneyasimages.carrd.co/assets/images/image21.gif?v=1c4e756b" alt="Blinkie"style="width:200px; height:auto;">
 </div>
+
+
+
 
 ###
 

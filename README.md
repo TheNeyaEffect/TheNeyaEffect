@@ -1,4 +1,4 @@
-## COMP ENG Full-time Student @ University of Cincinnati (Class of '28)
+## COMP ENG Full-time Student @ University of Cincinnati (Class of '29)
 
 <code style="color : purple">**Former HS Valedictorian | Creative technologist | Troubleshooter**</code><br/>
 

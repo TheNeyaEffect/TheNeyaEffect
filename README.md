@@ -2,7 +2,7 @@
 
 <code style="color : purple">**Former HS Valedictorian | Creative technologist | Troubleshooter**</code><br/>
 
-I’m fervid about building thoughtful, user-focused projects at the intersection of technology and creativity. With a strong foundation in programming, leadership, and collaboration, I enjoy turning ideas into functional, well-designed solutions.<br/>
+I’m passionate about building thoughtful, user-focused projects at the intersection of technology and creativity. With a strong foundation in programming, leadership, and collaboration, I enjoy turning ideas into functional, well-designed solutions.<br/>
 
 Beyond code, I have a deep appreciation for digital art and design—an interest inspired by my uncle, whose legacy continues to motivate my work in tech. I’m especially interested in projects that blend engineering with real-world impact, accessibility, and innovation.<br/>
 
